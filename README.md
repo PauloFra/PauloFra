@@ -8,17 +8,6 @@ Bem-vindo ao meu GitHub! Tenho experiência na criação de soluções robustas 
 
 Atualmente, sou parte do time da DBC Company - Smartsourcing Usaflex, onde atuo na construção e otimização de sistemas complexos para ambientes dinâmicos e de alto desempenho.
 
-🚀 Sobre mim
-
-🌍 Baseado no Brasil, RS
-
-🌟 Desenvolvedor Full-Stack com foco em arquitetura de soluções
-
-🔧 Criador de produtos digitais eficientes e escaláveis
-
-📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades
-
-🛠️ Tecnologias e Ferramentas
 
 Front-end
 
