@@ -21,12 +21,15 @@ Atualmente, sou parte do time da DBC Company - Smartsourcing Usaflex, onde atuo 
 🛠️ Tecnologias e Ferramentas
 
 Front-end
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,nextjs,ts,tailwind)](https://skillicons.dev)
 
 Back-end
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,nestjs,mysql,mongodb,py)](https://skillicons.dev)
 
 DevOps e Cloud:
+
 [![DevOps e Cloud Skills](https://skillicons.dev/icons?i=git,vercel,linux,aws,cloudflare,nginx,gcp)](https://skillicons.dev)
 
 📫 Vamos conectar?
