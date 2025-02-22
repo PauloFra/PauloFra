@@ -24,6 +24,6 @@ DevOps e Cloud:
 📫 Vamos conectar?
 
 - Email: [paulosergiofragamarcos@gmail.com](mailto:paulosergiofragamarcos@gmail.com)
-- LinkedIn: [Paulo Sergio Fraga Marcos](hhttps://www.linkedin.com/in/paulo-sergio-fraga-marcos-56b247227/)
+- LinkedIn: [Paulo Sergio Fraga Marcos](https://www.linkedin.com/in/paulo-sergio-fraga-marcos-56b247227/)
 
 Estou sempre aberto a novas conexões e oportunidades de colaboração. Vamos construir algo incrível juntos? 🚀
